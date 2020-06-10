@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "323191661031",
+    "firebase_url": "https://allomaalem.firebaseio.com",
+    "project_id": "allomaalem",
+    "storage_bucket": "allomaalem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323191661031:android:a89aa903cc22de91925d42",
+        "android_client_info": {
+          "package_name": "com.allosrv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323191661031-ckdfrkbj04cems341el8ooi9ult0uec8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allosrv",
+            "certificate_hash": "50b9190ddf51fd760edd649d145641161a7f0901"
+          }
+        },
+        {
+          "client_id": "323191661031-suf6khe3tqrb66artf7297hb8o3us2kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allosrv",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "323191661031-arlkpl1r4qe76reucol5eb6r65ne1dad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDceJ-yTL6wKuKKHD5OpHbeiKXQ2xUxqQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323191661031-arlkpl1r4qe76reucol5eb6r65ne1dad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
